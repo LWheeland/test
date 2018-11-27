@@ -1,2 +1,2 @@
 # test
-testing in the gitcourse
+A test repository for learning Git
